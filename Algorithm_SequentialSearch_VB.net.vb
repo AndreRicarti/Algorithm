@@ -1,4 +1,8 @@
-﻿Module Module1
+﻿Module Algorithm_SequentialSearch
+    '   /**
+    '   * Algorithm Sequential Search
+    '   * @author Son182
+    '   */
     Sub Main()
 
         Dim vetor() As Integer = {5, 15, 3, 13, 7, 9, 43, 27, 8, 66}
